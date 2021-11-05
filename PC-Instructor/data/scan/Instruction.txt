@@ -1,0 +1,18 @@
+1: Zweimal mit der linken Maustaste auf "Hier Scannen!!!" klicken.
+
+2: Einmal mit der linken Maustaste auf "ScanGear" klicken.
+
+3: Einmal mit der linken Maustaste auf "Vorschau" klicken.
+
+4: Die linke Maustaste geklickt halten, um einen gestrichelten Rahmen
+um die Münze oder das zu scannende Objekt zu ziehen.
+
+5: Einmal mit der linken Maustaste auf "Scannen" klicken.
+
+6: Der Ordner "DDR Münzen 3" öffnet sich und das neue Bild ist blau markiert.
+
+Dieses Fenster kann geschlossen werden.
+
+7: Das Fenster "Canon IJ Scan Utility" kann ebenfalls geschlossen werden.
+
+Der Scan ist fertig!

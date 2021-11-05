@@ -1,0 +1,27 @@
+-1-
+1: Mit der rechten Maustaste einmal auf eine freie Fläche klicken.
+2: Mit der linken Maustaste einmal auf Drucken klicken.
+
+-2-
+3: Neben "Mehr Optionen" einmal mit der linken Maustaste auf den kleinen
+Pfeil nach unten klicken [v].
+
+-3-
+4: Kontrollieren, ob neben "Beidseitig drucken" der Haken gesetzt ist.
+Ist das nicht der Fall, einmal mit der linken Maustaste auf das Kästchen
+klicken.
+
+-4-
+Optional:
+Soll beispielsweise Seite 3 und Seite 4 ausgedruckt werden, so kann man
+das wie folgt einstellen:
+4.1: Einmal mit der linken Maustaste auf "Alle" neben Seiten klicken.
+
+-5-
+4.2: In dem Kästchen mit der Beschriftung "z.B. 1-5 , 8, 11-13" die
+gewünschten Seiten eintragen, in unserem beispiel trägt man "3-4" ein.
+
+-6-
+5: Einmal mit der linken Maustaste auf "Drucken" klicken.
+
+Der Druck beginnt.
